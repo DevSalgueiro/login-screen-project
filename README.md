@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto de tela de login desenvolvido com html e css. A ideia é treinar um pouco o css.
+Projeto de tela de login desenvolvido com html e css.
 <br><br>
 <h3> Versão Desktop </h3>
 
